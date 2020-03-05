@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## 欢迎来到 欧洲杯2020-好友约玩资讯
 
-You can use the [editor on GitHub](https://github.com/beni520/FriendsLookingEuroFootball/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![Image](icon-1024.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+在我们的朋友中有很多也喜欢看欧洲杯的好朋友，在空闲时间你们可以约上三五个好友一起看欧洲杯，一起聊天畅谈和分享欧洲杯相关资讯是一件
+多么开心和有意义的事情。你可以将朋友的共同喜欢的球队和球员记录起来，以及朋友喜欢在什么时间段看欧洲杯，联系电话，住址等详细信息。
+方便你们一起分享大家感兴趣的资讯，一起享受欧洲杯带给我们的快乐。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+如果您遇到什么需要解答的问题，请发送您的问题到以下邮箱。
 
-# Header 1
-## Header 2
-### Header 3
+我们将第一时间为您解答。
 
-- Bulleted
-- List
+### 邮箱地址:  jichungan9498@163.com
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/beni520/FriendsLookingEuroFootball/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+谢谢！
